@@ -1,0 +1,20 @@
+C:\Users\susan.varghese\AppData\Local\Temporary Projects\Beziercurve\bin\Debug\Beziercurve.exe.config
+C:\Users\susan.varghese\AppData\Local\Temporary Projects\Beziercurve\bin\Debug\Beziercurve.exe
+C:\Users\susan.varghese\AppData\Local\Temporary Projects\Beziercurve\bin\Debug\Beziercurve.pdb
+C:\Users\susan.varghese\AppData\Local\Temporary Projects\Beziercurve\obj\Debug\Beziercurve.csprojAssemblyReference.cache
+C:\Users\susan.varghese\AppData\Local\Temporary Projects\Beziercurve\obj\Debug\Beziercurve.Form1.resources
+C:\Users\susan.varghese\AppData\Local\Temporary Projects\Beziercurve\obj\Debug\Beziercurve.Properties.Resources.resources
+C:\Users\susan.varghese\AppData\Local\Temporary Projects\Beziercurve\obj\Debug\Beziercurve.csproj.GenerateResource.cache
+C:\Users\susan.varghese\AppData\Local\Temporary Projects\Beziercurve\obj\Debug\Beziercurve.csproj.CoreCompileInputs.cache
+C:\Users\susan.varghese\AppData\Local\Temporary Projects\Beziercurve\obj\Debug\Beziercurve.exe
+C:\Users\susan.varghese\AppData\Local\Temporary Projects\Beziercurve\obj\Debug\Beziercurve.pdb
+C:\Users\susan.varghese\source\repos\Beziercurve\Beziercurve\obj\Debug\Beziercurve.csprojAssemblyReference.cache
+C:\Users\susan.varghese\source\repos\Beziercurve\Beziercurve\obj\Debug\Beziercurve.Properties.Resources.resources
+C:\Users\susan.varghese\source\repos\Beziercurve\Beziercurve\obj\Debug\Beziercurve.csproj.GenerateResource.cache
+C:\Users\susan.varghese\source\repos\Beziercurve\Beziercurve\obj\Debug\Beziercurve.csproj.CoreCompileInputs.cache
+C:\Users\susan.varghese\source\repos\Beziercurve\Beziercurve\obj\Debug\Beziercurve.exe
+C:\Users\susan.varghese\source\repos\Beziercurve\Beziercurve\obj\Debug\Beziercurve.pdb
+C:\Users\susan.varghese\source\repos\Beziercurve\Beziercurve\bin\Debug\Beziercurve.exe.config
+C:\Users\susan.varghese\source\repos\Beziercurve\Beziercurve\bin\Debug\Beziercurve.exe
+C:\Users\susan.varghese\source\repos\Beziercurve\Beziercurve\bin\Debug\Beziercurve.pdb
+C:\Users\susan.varghese\source\repos\Beziercurve\Beziercurve\obj\Debug\Beziercurve.Beziercurve.resources
